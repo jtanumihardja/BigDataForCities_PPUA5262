@@ -19,13 +19,13 @@ Other datasets are also used to further analyze the implication of this dataset 
 
 ## Dataset Fun Facts
 
-•	The median rental property price for Massachusetts is $1,895 while it is $2,096 for Greater Boston Area, indicating the high demand for the latter area. 
-•	More postings occurred during the summer months (May – July). Lower total postings occurred during the fall months (October – December).
-•	Top-three locations with the most postings in Greater Boston are Cambridge, Somerville, and Boston, respectively. It is surprising that Boston is not the top location.
-•	Renters should expect to pay $2.3 per square foot (sq.ft.) for a property in Greater Boston Area. Among those areas, Cambridge has the widest price range. 
-•	More postings in the Greater Boston Area are apartment-related (67%). Only 25% of the postings can be categorized as single-family houses related. The mean and median prices for apartment- and housing-related postings are surprisingly similar.
-•	The average price for an apartment listing is generally higher in 2020 than in 2021, which might indicate the lack of demand in the later year. 
-•	Only 12% of postings in the Greater Boston Area are student related. 
+* The median rental property price for Massachusetts is $1,895 while it is $2,096 for Greater Boston Area, indicating the high demand for the latter area. 
+* More postings occurred during the summer months (May – July). Lower total postings occurred during the fall months (October – December).
+* Top-three locations with the most postings in Greater Boston are Cambridge, Somerville, and Boston, respectively. It is surprising that Boston is not the top location.
+* Renters should expect to pay $2.3 per square foot (sq.ft.) for a property in Greater Boston Area. Among those areas, Cambridge has the widest price range. 
+* More postings in the Greater Boston Area are apartment-related (67%). Only 25% of the postings can be categorized as single-family houses related. The mean and median prices for apartment- and housing-related postings are surprisingly similar.
+* The average price for an apartment listing is generally higher in 2020 than in 2021, which might indicate the lack of demand in the later year. 
+* Only 12% of postings in the Greater Boston Area are student related. 
 
       
 
