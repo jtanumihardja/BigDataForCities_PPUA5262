@@ -8,7 +8,7 @@ R Studio is used to process and visualize the dataset throughout the semester to
 ## Datasets
 The assigned dataset for the class project is the [**Craigslist Housing Postings in Massachusetts** dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/52WSPT) by Boston Area Research Initiative (BARI). According to the description, this dataset contains Craigslist housing listings (2020 - 2021) in the regions of Massachusetts as designated by Craigslist. 
 
-Other datasets are also used to analyze the implication of this dataset in Boston's neighborhood as listed in the individual project document. 
+Other datasets are also used to further analyze the implication of this dataset in Boston's neighborhood as discussed in project documents. 
 
 
       
