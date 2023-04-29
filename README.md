@@ -19,7 +19,7 @@ Other datasets are also used to further analyze the implication of this dataset 
 * [New Measures and Latent Constructs](https://sppua5262.wordpress.com/2023/02/28/building-latent-constructs-craigslist-2/)
 * [Correlations](https://sppua5262.wordpress.com/2023/03/29/correlations-craigslist-housing-places-of-interest-and-census-indicator/)
 * [Comparing Groups (t-test and ANOVA)](https://sppua5262.wordpress.com/2023/04/04/comparing-groups-craigslist-housing-jessica-tanumihardja/)
-* Final Project: Inform, Measure, and Discover (ongoing)
+* Final Report: [Analysis of Craigslist Housing Postings in Boston, MA](https://github.com/jtanumihardja/BigDataForCities_PPUA5262/blob/main/FinalProject_PPUA5262_JessicaTanumihardja.pdf)
 
 ## Dataset Fun Facts
 
