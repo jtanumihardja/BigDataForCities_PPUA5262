@@ -14,7 +14,7 @@ Other datasets are also used to further analyze the implication of this dataset 
 ## Project Deriverables
 
 * All WordPress articles can be found [here](https://sppua5262.wordpress.com/author/jtanumihardja/)
-* [City Exploration #1: Tour of Neighborhood](https://github.com/jtanumihardja/BigDataForCities_PPUA5262/blob/main/CityExploration_1_TourOfNeighborhood_JessicaTanumihardja.pdf)
+* City Exploration #1: [Tour of Neighborhood](https://github.com/jtanumihardja/BigDataForCities_PPUA5262/blob/main/CityExploration_1_TourOfNeighborhood_JessicaTanumihardja.pdf)
 * City Exploration #2: : [Neighborhood through the Lens of Public Media](https://sppua5262.wordpress.com/2023/03/16/city-exploration-2-tour-of-a-neighborhood-allston-brighton/)
 * [New Measures and Latent Constructs](https://sppua5262.wordpress.com/2023/02/28/building-latent-constructs-craigslist-2/)
 * [Correlations](https://sppua5262.wordpress.com/2023/03/29/correlations-craigslist-housing-places-of-interest-and-census-indicator/)
